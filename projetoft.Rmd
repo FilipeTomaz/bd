@@ -23,6 +23,10 @@ if(!require(roxygen2)){install.packages("roxygen2")}
 if(!require(tidyr)){install.packages("tidyr")}
 if(!require(devtools)){install.packages("devtools")}
 if(!require(readr)){install.packages("readr")}
+if(!require(knitr)){install.packages("knitr")}
+if(!require(maps)){install.packages("maps")}
+
+
 
 ```
 
